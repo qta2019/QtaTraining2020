@@ -1,5 +1,8 @@
 # QtaTraining2020
 QTA2020内培 github存档
 
-[工作时间统计](https://shimo.im/sheets/hVTphqCY8WK88dYx/MODOC)    
-[会议记录](meeting_log)
+工作小组github页面    
+[ML机器学习小组](https://github.com/QTA-ML20/QTAML2020)    
+[Barra多因子小组](https://github.com/eveJiang/Barra_QTA2020)    
+[统计套利小组](https://github.com/Harveydentsun/2020-Statistical-Arbitrage)    
+
