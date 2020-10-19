@@ -7,7 +7,7 @@ QTA2020内培 github存档
 [统计套利小组](https://github.com/Harveydentsun/2020-Statistical-Arbitrage)    
 [ff多因子小组2](https://github.com/jiangxunmu/multiFactor2_Barra)    
     
-[三句话看懂各组在做什么]https://docs.qq.com/doc/DQ2VWRlllaFNTUXha
+[三句话看懂各组在做什么](https://docs.qq.com/doc/DQ2VWRlllaFNTUXha)
 
 
 
